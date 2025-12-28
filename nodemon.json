@@ -1,0 +1,7 @@
+{
+  "verbose": true,
+  "ignore": ["out/*", "obj/*", "gen/*"],
+  "watch": ["src/", "res/", "AndroidManifest.xml"],
+  "ext": "java,xml,jks",
+  "exec": "./build.app.sh watch"
+}
