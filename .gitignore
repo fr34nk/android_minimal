@@ -23,7 +23,6 @@ gen/
 # --- Local Environment & SDK ---
 # Local configuration files created by our scripts
 .android_env
-nodemon.json
 local.properties
 
 # --- OS & IDE Metadata ---
